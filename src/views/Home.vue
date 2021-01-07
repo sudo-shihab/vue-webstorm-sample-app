@@ -3,7 +3,7 @@
     <!-- Header Section -->
     <section class="header">
       <app-nav-bar-wrapper />
-       </section>
+    </section>
 
     <!-- Main PAge Header -->
     <section class="main-page-header">
