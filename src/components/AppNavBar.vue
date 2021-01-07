@@ -25,7 +25,7 @@
         </router-link>
 
         <router-link to="/about" class="navbar-item">
-          About Pages
+          About Page
         </router-link>
       </div>
 

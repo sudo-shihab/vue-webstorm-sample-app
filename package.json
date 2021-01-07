@@ -36,12 +36,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "pretty-quick --staged"
     }
-  },
-  "lint-staged": {
-    "*.js": "eslint --cache --fix",
-    "*.css": "eslint --cache --fix",
-    "*.vue" : "eslint --cache --fix"
   }
 }
