@@ -3,7 +3,7 @@
     <app-nav-bar-wrapper />
     <hero-page-header
       title="About Us Page"
-      sub-title="Description about about page bla  bla"
+      sub-title="Description about about page bla"
     />
     <app-tabs :menu-list="['partners', 'publishers']" />
   </div>
