@@ -6,7 +6,7 @@
       title="About Us Page"
       sub-title="Description about about page bla"
     />
-    <app-tabs :menu-list="['sports', 'news']" />
+        <app-tabs :menu-list="['sports', 'news']" />
   </div>
 </template>
 
