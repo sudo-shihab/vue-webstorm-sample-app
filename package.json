@@ -36,7 +36,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit":"vue-cli-service lint"
+      "pre-commit": "pretty-quick --staged"
     }
   }
 }
