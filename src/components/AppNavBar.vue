@@ -2,7 +2,7 @@
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item" href="https://bulma.io">
-        <p class="has-text-weight-bold is-size-5">{{brandName}}</p>
+        <p class="has-text-weight-bold is-size-5">{{ brandName }}</p>
       </a>
 
       <a
@@ -25,7 +25,7 @@
         </router-link>
 
         <router-link to="/about" class="navbar-item">
-          About Page
+          About Pages
         </router-link>
       </div>
 
