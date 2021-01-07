@@ -5,7 +5,8 @@
       title="About Us Page"
       sub-title="Description about about page bla"
     />
-    <app-tabs :menu-list="['partners', 'publishers']" />
+
+    <p>shihah</p>
   </div>
 </template>
 
