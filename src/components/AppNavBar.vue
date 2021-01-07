@@ -2,10 +2,10 @@
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item" href="https://bulma.io">
-        <p class="has-text-weight-bold is-size-5">{{ brandName }}</p>
+        <p class="has-text-weight-bold is-size-5">{{brandName }}</p>
       </a>
 
-      <a
+         <a
         role="button"
         class="navbar-burger"
         aria-label="menu"
