@@ -1,13 +1,12 @@
 <template>
   <div class="about">
     <app-nav-bar-wrapper />
-    <app-tabs :menu-list="['sports', 'news']" />
+
     <hero-page-header
       title="About Us Page"
       sub-title="Description about about page bla"
     />
-
-    <p>shaikh fdklvnl fjvklfdklv j jdkl fv</p>
+    <app-tabs :menu-list="['sports', 'news']" />
   </div>
 </template>
 
