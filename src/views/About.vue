@@ -7,7 +7,7 @@
       sub-title="Description about about page bla"
     />
 
-    <p>shihah fdklvnl fjvklfdklv j jdkl fv</p>
+    <p>shaikh fdklvnl fjvklfdklv j jdkl fv</p>
   </div>
 </template>
 
