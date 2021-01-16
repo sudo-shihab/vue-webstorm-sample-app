@@ -9,7 +9,10 @@
           {{ subTitle }}
         </h2>
         <p>
-          <button class="button is-light" @click="colorChange()">
+          <button
+            class="button is-light"
+            @click="colorChange('has-background-primary')"
+          >
             Change Color
           </button>
         </p>
@@ -41,8 +44,8 @@ export default {
     }
   },
   methods: {
-    colorChange() {
-      this.backgroundClass = "has-background-primary";
+    colorChange(bgCssClass) {
+      this.backgroundClass = bgCssClass;
     }
   }
 };

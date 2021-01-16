@@ -5,7 +5,7 @@
       <app-nav-bar-wrapper />
     </section>
 
-    <!-- Main PAge Header -->
+    <!-- Main Page Header -->
     <section class="main-page-header">
       <hero-page-header
         sub-title="Find home page related data here"
